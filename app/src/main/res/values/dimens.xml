@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="navBarHeight">46dp</dimen>
+    <dimen name="cardHeight">150dp</dimen>
+    <dimen name="cardMarginTop">10dp</dimen>
+</resources>
